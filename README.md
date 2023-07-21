@@ -3,9 +3,7 @@
 Meta React Native Specialization Capstone.
 
 ## Installation
-
-git clone https://github.com/Neumann-Valle/little-lemon
-then inside the project folder run command npm install.
+inside the project folder run command npm install.
 </br>
 Once all the modules has been installed, run command
 npm start .
